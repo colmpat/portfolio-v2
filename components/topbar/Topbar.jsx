@@ -11,7 +11,7 @@ export default function Topbar() {
                 <ul>
                     <a href="/#intro"><li>01. <span>Intro</span></li></a>
                     <a href="/#projects"><li>02. <span>Featured Projects</span></li></a>
-                    <a href="https://resume.io/r/wSh41saKj" target="_blank" className={styles.button + " button"}>Resume</a>
+                    <a href="/pdfs/Colm_Lang_resume.pdf" target="_blank" className={styles.button + " button"}>Resume</a>
                 </ul>
             </div>
         </div>
